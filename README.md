@@ -1,5 +1,5 @@
 # Tacotron-WaveRNN
-Tacotron + WaveRNN synthesis
+Tacotron + WaveRNN synthesis from Guo-T-W
 
 Makes use of:
  - Tacotron: https://github.com/Rayhane-mamah/Tacotron-2
