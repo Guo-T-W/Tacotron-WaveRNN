@@ -1,6 +1,10 @@
 # Tacotron-WaveRNN
 Tacotron + WaveRNN synthesis from Guo-T-W
 
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="./00005337-00000029.wav">
+</audio>
+
 Makes use of:
  - Tacotron: https://github.com/Rayhane-mamah/Tacotron-2
  - WaveRNN: https://github.com/fatchord/WaveRNN
